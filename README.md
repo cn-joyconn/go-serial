@@ -1,4 +1,4 @@
-# serial [![Build Status](https://travis-ci.org/goburrow/serial.svg?branch=master)](https://travis-ci.org/goburrow/serial) [![GoDoc](https://godoc.org/github.com/goburrow/serial?status.svg)](https://godoc.org/github.com/goburrow/serial)
+# go serial 
 ## Example
 ```go
 package main
