@@ -1,3 +1,3 @@
-module github.com/cn-joyconn/serial
+module github.com/cn-joyconn/go-serial
 
 go 1.16

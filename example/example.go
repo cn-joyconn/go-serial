@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cn-joyconn/serial"
+	"github.com/cn-joyconn/go-serial"
 )
 
 var (
